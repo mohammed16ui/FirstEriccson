@@ -11,7 +11,7 @@ var AppView = Backbone.View.extend({
 
     //Like the Hello TutorialsPoint in this case.
     render: function () {
-      this.$el.html("Hello TutorialsPoint");
+      this.$el.html("Hello Mohammed");
     }
   });
   var appView = new AppView();
